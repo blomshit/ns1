@@ -1,0 +1,22 @@
+{
+  "name": "ns1",
+  "version": "1.0.0",
+  "description": "Nerdschool night",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blomshit/ns1.git"
+  },
+  "keywords": [
+    "nerdschool"
+  ],
+  "author": "Steblo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blomshit/ns1/issues"
+  },
+  "homepage": "https://github.com/blomshit/ns1#readme"
+}
